@@ -8,7 +8,7 @@
 
 Сайт разработчика: [ArtemSannikov.ru](http://artemsannikov.ru)
 
-Приложение в Play Market: [Камасутра: секс позы](https://play.google.com/store/apps/details?id=ru.book1)
+Приложение в Play Market: [Как завести новых друзей. Дейл Карнеги.](https://play.google.com/store/apps/details?id=ru.book1)
 
 ### Логи обновлений
 
